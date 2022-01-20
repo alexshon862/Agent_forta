@@ -1,7 +1,7 @@
 {
-  "name": "forta-agent-starter",
+  "name": "alex_shon",
   "version": "0.0.1",
-  "description": "Forta Agent Typescript starter project",
+  "description": "Forta Agent Typescript starter project Alex_Shon",
   "scripts": {
     "build": "tsc",
     "start": "npm run start:dev",
@@ -18,9 +18,10 @@
     "keyfile": "forta-agent keyfile",
     "test": "jest"
   },
+  
   "dependencies": {
     "bignumber.js": "^9.0.1",
-    "forta-agent": "^0.0.32"
+    "forta-agent": "^0.0.34"
   },
   "devDependencies": {
     "@types/jest": "^27.0.1",
